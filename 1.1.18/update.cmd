@@ -1,0 +1,1 @@
+ %~dp0bin\RunCommandExtension.exe "update"
